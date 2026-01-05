@@ -27,6 +27,9 @@
     <a href="https://www.tiktok.com/@kleyver.x" target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
     </a>
+    <a href="https://kleyverx.github.io/portfoliokley/" target="_blank">
+      <img src="https://img.shields.io/badge/Web-Portafolio-bf00ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </a>
   </p>
 </div>
 
@@ -111,6 +114,11 @@ Hola, soy **Kleyver Urbina**, un apasionado Desarrollador Full Stack. Mi enfoque
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><b><img src="https://icongr.am/feather/layout.svg?size=16&color=bf00ff" valign="middle"/> Portafolio Personal</b></td>
+      <td>Este mismo portafolio con animaciones avanzadas y diseño Cyberpunk.</td>
+      <td><code>HTML</code> <code>CSS</code> <code>JS</code></td>
+    </tr>
     <tr>
       <td><b><img src="https://icongr.am/feather/shopping-cart.svg?size=16&color=bf00ff" valign="middle"/> BMV Shop</b></td>
       <td>E-commerce completo de perfumería con control de stock y pagos.</td>
